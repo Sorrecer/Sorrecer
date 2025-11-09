@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorrecer&theme=dracula&row=1" alt="sorrecer" /></a> </p>
 
-- 🔭 I’m currently working on [Guwavesser](https://guwavesser.vercel.app/)
+- 🔭 I’m currently working on [Guwavesser](https://guwavesser.vercel.app/), and make my living as an Software engineer at a large textile manufacturing industry
 
 - 🌱 I’m currently learning **FE Frameworks**
 
